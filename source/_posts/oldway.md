@@ -25,6 +25,7 @@ updated:
 ~~* [荣誉文凭申请](https://bdfz-my.sharepoint.com/:x:/r/personal/zhoulei_i_pkuschool_edu_cn/_layouts/15/WopiFrame.aspx?guestaccesstoken=K%2bWsXUGCuaivDXeUFkPyvKxiP57Uzk4mlsXwvEWNh6k%3d&docid=1_1279cbe17122f45d69291a7b3515ba2ea&wdFormId=%7BDA2A1BB1-A6BC-40B7-ABBF-0F73D4314787%7D&action=formsubmit)：​这也是2015年的~~
 
 申请荣誉文凭的学生要先申请普通文凭，然后再申请荣誉文凭；收到荣誉文凭申请后，我们会通过邮件开放申请人制作个人网站介绍自己的权限。
+<!-- more -->
 **第二环节：资料审核**
 委员会将依据申请人所提交资​料（包括网站）进行筛选
 **第三环节：面试**
