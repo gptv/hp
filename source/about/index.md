@@ -4,13 +4,6 @@ date: 2019-05-01 11:25:56
 ---
 北大附中实行文凭制，文凭分为普通文凭和荣誉文凭两种。两种文凭都实行申请制，学生达到学校的基本要求后即可申请普通文凭，获得普通文凭后可以申请荣誉文凭。
 
-常见问答（请使用365邮箱注册参与讨论）
-* [荣誉文凭的申请条件](https://github.com/pkuschool/Honours-programs/issues/6)
-* [荣誉文凭定义](https://github.com/pkuschool/Honours-programs/issues/1)
-* [积点成绩是否限制](https://github.com/pkuschool/Honours-programs/issues/3)
-* [荣誉文凭人数是否限定](https://github.com/pkuschool/Honours-programs/issues/2)
-* [申请需提交什么，如何提交](https://github.com/pkuschool/Honours-programs/issues/4)
-* [审核流程](https://github.com/pkuschool/Honours-programs/issues/5)
 
 {% tabs Sixth unique name %}
 <!-- tab 2015年@user-circle -->
@@ -96,3 +89,12 @@ date: 2019-05-01 11:25:56
 </center>
 <!-- endtab -->
 {% endtabs %}
+
+
+常见问答（请使用365邮箱注册参与讨论）
+* [荣誉文凭的申请条件](https://github.com/pkuschool/Honours-programs/issues/6)
+* [荣誉文凭定义](https://github.com/pkuschool/Honours-programs/issues/1)
+* [积点成绩是否限制](https://github.com/pkuschool/Honours-programs/issues/3)
+* [荣誉文凭人数是否限定](https://github.com/pkuschool/Honours-programs/issues/2)
+* [申请需提交什么，如何提交](https://github.com/pkuschool/Honours-programs/issues/4)
+* [审核流程](https://github.com/pkuschool/Honours-programs/issues/5)
