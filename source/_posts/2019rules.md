@@ -90,7 +90,7 @@ top: 1
 > 详情请参阅[荣誉文凭2019年评选流程（讨论稿）](https://pkuschool.github.io/Honours-programs/2019/05/10/2019way/)。
 
 ### 北大附中文凭委员会
-由校长、书记牵头，各部、学院、中心负责人作为成员。
+由校长、书记牵头，各部、学院、中心负责人总计11人作为成员。
 
 ### 2019年申请表
 <center><font color="red">
@@ -101,6 +101,10 @@ top: 1
 <center>
 <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=dvGcSe515EmAwVKvzSjStX_OJCfvpMRDiZr_vPuTJPBUOFU1WlIzRE5VM0FaTkpSQlNPRE5HU1VQOS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 </center>
+
+### 文凭典礼
+依据学校决议，荣誉文凭在高二评选完毕，在本网站与官网发布正式名单，不做典礼。
+文凭典礼将于高三毕业典礼时设置专门北大附中荣誉文凭授予环节，由校长为文凭获得者颁发文凭。
 
 ### 答疑平台
 常见问题列表与项目答疑请移步[答疑平台](https://github.com/pkuschool/Honours-programs/issues)。
