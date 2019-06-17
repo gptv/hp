@@ -28,6 +28,8 @@ copyright: true
 
 {% img [class names] /path/to/image [width] [height] [title text [alt text]] %}
 
+{% img [class names] /path/to/image  %}
+
 <font color="green">**该标签可以表示条目的等级，使用的时候一定要注意和后边内容留有空格。**</font>
 
 <!-- more -->

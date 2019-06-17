@@ -1,11 +1,75 @@
 ---
-title: 荣誉文凭历届获奖学生
+title: 荣誉文凭历届获奖学生与本年度申请者
 date: 2019-05-01 11:25:56
 ---
 北大附中实行文凭制，文凭分为普通文凭和荣誉文凭两种。两种文凭都实行申请制，学生达到学校的基本要求后即可申请普通文凭，获得普通文凭后可以申请荣誉文凭。
 
 
 {% tabs Sixth unique name %}
+
+<!-- tab 2019年申请者列表（评审进行时）@user-circle -->
+<center>
+**[正心书院：叶 可欣](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a001/)
+[明德书院：张 少彤](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a002/)
+[明德书院：厉 海川](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a003/)
+[熙敬书院：李 思涵](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a004/)
+[明德书院：申 向一](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a005/)
+[明德书院：朱 芄蔓](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a006/)
+[明德书院：韦 浩文](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a007/)
+[正心书院：熊 雨辰](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a008/)
+[明德书院：刘 润洲](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a009/)
+[明德书院：要 笛](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a010/)
+[正心书院：秦 名泽](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a011/)
+[正心书院：姜 雨熹](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a012/)
+[明德书院：王 雨婷](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a013/)
+[2025221：王 敬香](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a014/)
+[诚意书院：陈 思越](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a015/)
+[熙敬书院：程 玥](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a016/)
+[新民书院：张 天然](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a017/)
+[明德书院：肖 咏涵](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a018/)
+[明德书院：黄 睿涵](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a019/)
+[新民书院：于 文远](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a020/)
+[明德书院：郭 文青](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a021/)
+[明德书院：贺 子畅](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a022/)
+[明德书院：范 大卫](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a023/)
+[新民书院：周 昱霖](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a024/)
+[正心书院：宋 元杰](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a025/)
+[格物书院：王 楚媛](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a026/)
+[格物书院：卢 廖宇](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a027/)
+[明德书院：程 悦儿](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a028/)
+[正心书院：万 相一](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a029/)
+[明德书院：雷 瑷嘉](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a030/)
+[新民书院：熊 子昱](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a031/)
+[明德书院：高 颖琛](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a032/)
+[明德书院：曹 诗其](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a033/)
+[熙敬书院：宋 小衡](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a034/)
+[明德书院：张 艾瑞](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a035/)
+[正心书院：魏 积宇](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a036/)
+[明德书院：段 承祺](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a037/)
+[明德书院：赵 一然](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a038/)
+[明德书院：程 培聪](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a039/)
+[明德书院：谢 天慧](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a040/)
+[明德书院：刘 帅](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a041/)
+[正心书院：温 雅](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a042/)
+[新民书院：张 心怡](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a043/)
+[至善书院：黄 元柳](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a044/)
+[格物书院：郑 琦](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a045/)
+[熙敬书院：秦 滢](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a046/)
+[明德书院：杨 雨辰](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a047/)
+[明德书院：胡 居艺](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a048/)
+[格物书院：刘 沐华](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a050/)
+[新民书院：程 巾格](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a051/)
+[格物书院：孟 珂瑶](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a052/)
+[新民书院：李 晨露](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a053/)
+[明德书院：刘 蔼宁](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a054/)
+[新民书院：刘 研](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a055/)
+[新民书院：杨 咏诺](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a056/)
+[正心书院：那 可](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a057/)
+[新民书院：郭 星言](https://pkuschool.github.io/Honours-programs/2019/06/12/2019a058/)
+**
+</center>
+<!-- endtab -->
+
 <!-- tab 2015年@user-circle -->
 <center>
 **[至善书院： 杨逸凡](https://bdfz.sharepoint.com/teams/stushow/2015stu/yangyifan/default.aspx)
@@ -88,6 +152,8 @@ date: 2019-05-01 11:25:56
 [熙敬书院：董豪泽](https://sway.com/dzO1vKY41rHO0NQ9?ref=Link)**
 </center>
 <!-- endtab -->
+
+
 {% endtabs %}
 
 
